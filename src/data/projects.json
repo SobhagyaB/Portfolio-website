@@ -1,0 +1,52 @@
+[
+    {
+      "title": "E-Commerce",
+      "imageSrc": "projects/ecomerce.jpg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Html", "Css","Js"],
+      "demo": "https://cprcvq.csb.app/",
+      "source": "https://github.com/SobhagyaB/ecommerce-project"
+    },
+    {
+      "title": "Q-Tify",
+      "imageSrc": "projects/qtify.jpg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Js","Bootstrap"],
+      "demo": "https://2kwxm2.csb.app/",
+      "source": "https://github.com/SobhagyaB/Qtify-Webpage"
+    },
+    {
+      "title": "Chill-flix",
+      "imageSrc": "projects/movies.jpg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Html", "Css","Js"],
+      "demo": "https://59z29s.csb.app/",
+      "source": "https://github.com/SobhagyaB/Movie-app"
+    },
+    {
+      "title": "Weather App",
+      "imageSrc": "projects/weather.jpg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Html", "Css","Js"],
+      "demo": "https://rqfxd4.csb.app/",
+      "source": "https://github.com/SobhagyaB/weather-application"
+    },
+    {
+      "title": "Tictac-toe",
+      "imageSrc": "projects/tictac.jpg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Html", "Css","Js"],
+      "demo": "https://qgw6kv.csb.app/",
+      "source": "https://github.com/SobhagyaB/tictactoe-prj"
+    },
+    {
+      "title": "Image Carousel",
+      "imageSrc": "projects/img.jpg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": [ "Html", "Css","Js","Bootstrap"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/SobhagyaB/imagecarousel-prj"
+    }
+    
+  ]
+  
